@@ -7,9 +7,8 @@ class Artist
     @Artist = Artist
   end
   
-  binding.pry
+  # binding.pry
   beyonce = Artist.new("Beyonce")
-  
   
   
 end  
