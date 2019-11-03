@@ -7,7 +7,7 @@ class Artist
   end
   
   # binding.pry
-  beyonce = Artist.new("Beyonce")
+  artist = Artist.new("Beyonce")
   
   
   
