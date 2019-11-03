@@ -4,7 +4,5 @@ class Artist
   
   
 end  
- 
-
 
 # define an artist class that has beyonce as a name
