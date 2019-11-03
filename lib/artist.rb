@@ -6,7 +6,7 @@ class Artist
     @name = name
   end
   
-  # binding.pry
+  binding.pry
   artist = Artist.new("Beyonce")
   
   
