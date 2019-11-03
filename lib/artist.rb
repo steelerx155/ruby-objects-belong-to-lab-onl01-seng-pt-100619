@@ -5,11 +5,11 @@ class Artist
   def initialize(name)
     @name = name
   end
-  
+end  
   binding.pry
   beyonce = Artist.new("Beyonce")
   Artist.name
   
-end  
+
 
 # define an artist class that has beyonce as a name
